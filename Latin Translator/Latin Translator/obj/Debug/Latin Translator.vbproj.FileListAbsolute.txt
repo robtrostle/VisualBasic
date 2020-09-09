@@ -1,0 +1,11 @@
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe.config
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\bin\Debug\Latin Translator.pdb
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\bin\Debug\Latin Translator.xml
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin Translator.vbprojAssemblyReference.cache
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Form1.resources
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Resources.resources
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin Translator.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin Translator.exe
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin Translator.xml
+C:\Users\robtr\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin Translator.pdb

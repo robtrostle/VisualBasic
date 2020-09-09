@@ -1,0 +1,13 @@
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\bin\Debug\Kayaks.mdf
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\bin\Debug\Kayaks_log.ldf
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\bin\Debug\KayakRentalPrices.exe.config
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\bin\Debug\KayakRentalPrices.exe
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\bin\Debug\KayakRentalPrices.pdb
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\bin\Debug\KayakRentalPrices.xml
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\obj\Debug\KayakRentalPrices.Form1.resources
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\obj\Debug\KayakRentalPrices.Resources.resources
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\obj\Debug\KayakRentalPrices.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\obj\Debug\KayakRentalPrices.exe
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\obj\Debug\KayakRentalPrices.xml
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\obj\Debug\KayakRentalPrices.pdb
+C:\Users\robtr\source\repos\KayakRentalPrices\KayakRentalPrices\obj\Debug\KayakRentalPrices.vbprojAssemblyReference.cache

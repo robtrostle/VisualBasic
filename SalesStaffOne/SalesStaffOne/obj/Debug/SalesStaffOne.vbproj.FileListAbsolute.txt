@@ -1,0 +1,13 @@
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\bin\Debug\Company.mdf
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\bin\Debug\Company_log.ldf
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\bin\Debug\SalesStaffOne.exe.config
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\bin\Debug\SalesStaffOne.exe
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\bin\Debug\SalesStaffOne.pdb
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\bin\Debug\SalesStaffOne.xml
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\obj\Debug\SalesStaffOne.vbprojAssemblyReference.cache
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\obj\Debug\SalesStaffOne.Form1.resources
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\obj\Debug\SalesStaffOne.Resources.resources
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\obj\Debug\SalesStaffOne.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\obj\Debug\SalesStaffOne.exe
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\obj\Debug\SalesStaffOne.xml
+C:\Users\robtr\source\repos\SalesStaffOne\SalesStaffOne\obj\Debug\SalesStaffOne.pdb

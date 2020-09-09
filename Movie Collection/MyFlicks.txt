@@ -1,0 +1,28 @@
+Life of Pi
+2004
+120
+R
+Braveheart
+1992
+120
+R
+Toy Story
+1999
+90
+PG
+Bad Boys
+1994
+90
+R
+Scarface
+1980
+120
+R
+Poltergeist
+1983
+90
+R
+Full Metal Jacket
+1987
+129
+R

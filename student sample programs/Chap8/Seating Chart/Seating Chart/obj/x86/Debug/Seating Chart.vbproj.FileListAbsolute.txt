@@ -1,0 +1,10 @@
+E:\VisualBasic\student sample programs\Chap8\Seating Chart\Seating Chart\bin\Debug\Seating Chart.exe
+E:\VisualBasic\student sample programs\Chap8\Seating Chart\Seating Chart\bin\Debug\Seating Chart.pdb
+E:\VisualBasic\student sample programs\Chap8\Seating Chart\Seating Chart\bin\Debug\Seating Chart.xml
+E:\VisualBasic\student sample programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.vbprojAssemblyReference.cache
+E:\VisualBasic\student sample programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Form1.resources
+E:\VisualBasic\student sample programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Resources.resources
+E:\VisualBasic\student sample programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.vbproj.GenerateResource.cache
+E:\VisualBasic\student sample programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+E:\VisualBasic\student sample programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.xml
+E:\VisualBasic\student sample programs\Chap8\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb

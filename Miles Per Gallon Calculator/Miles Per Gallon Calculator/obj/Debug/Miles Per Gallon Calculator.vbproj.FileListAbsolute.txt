@@ -1,0 +1,11 @@
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.exe.config
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.exe
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.pdb
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.xml
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.vbprojAssemblyReference.cache
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles_Per_Gallon_Calculator.Form1.resources
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles_Per_Gallon_Calculator.Resources.resources
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.exe
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.xml
+C:\Users\robtr\source\repos\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.pdb

@@ -1,0 +1,11 @@
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe.config
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.pdb
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.xml
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.vbprojAssemblyReference.cache
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail_Price_Calculator.Form1.resources
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail_Price_Calculator.Resources.resources
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.exe
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.xml
+C:\Users\robtr\source\repos\Retail Price Calculator\Retail Price Calculator\obj\Debug\Retail Price Calculator.pdb

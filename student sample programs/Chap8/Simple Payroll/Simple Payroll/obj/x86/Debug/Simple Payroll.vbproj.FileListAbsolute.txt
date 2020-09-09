@@ -1,0 +1,10 @@
+E:\VisualBasic\student sample programs\Chap8\Simple Payroll\Simple Payroll\bin\Debug\Simple Payroll.exe
+E:\VisualBasic\student sample programs\Chap8\Simple Payroll\Simple Payroll\bin\Debug\Simple Payroll.pdb
+E:\VisualBasic\student sample programs\Chap8\Simple Payroll\Simple Payroll\bin\Debug\Simple Payroll.xml
+E:\VisualBasic\student sample programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.vbprojAssemblyReference.cache
+E:\VisualBasic\student sample programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple_Payroll.Form1.resources
+E:\VisualBasic\student sample programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple_Payroll.Resources.resources
+E:\VisualBasic\student sample programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.vbproj.GenerateResource.cache
+E:\VisualBasic\student sample programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.exe
+E:\VisualBasic\student sample programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.xml
+E:\VisualBasic\student sample programs\Chap8\Simple Payroll\Simple Payroll\obj\x86\Debug\Simple Payroll.pdb

@@ -1,0 +1,11 @@
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\bin\Debug\MovieDataBase.exe.config
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\bin\Debug\MovieDataBase.exe
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\bin\Debug\MovieDataBase.pdb
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\bin\Debug\MovieDataBase.xml
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\obj\Debug\MovieDataBase.vbprojAssemblyReference.cache
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\obj\Debug\MovieDataBase.MainForm.resources
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\obj\Debug\MovieDataBase.Resources.resources
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\obj\Debug\MovieDataBase.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\obj\Debug\MovieDataBase.exe
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\obj\Debug\MovieDataBase.xml
+C:\Users\robtr\source\repos\MovieDataBase\MovieDataBase\obj\Debug\MovieDataBase.pdb

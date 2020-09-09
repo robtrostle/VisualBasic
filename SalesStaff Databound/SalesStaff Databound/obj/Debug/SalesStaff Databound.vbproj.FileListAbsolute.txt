@@ -1,0 +1,12 @@
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\bin\Debug\Company.mdf
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\bin\Debug\Company_log.ldf
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\bin\Debug\SalesStaff Databound.exe.config
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\bin\Debug\SalesStaff Databound.exe
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\bin\Debug\SalesStaff Databound.pdb
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\bin\Debug\SalesStaff Databound.xml
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\obj\Debug\SalesStaff_Databound.Form1.resources
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\obj\Debug\SalesStaff_Databound.Resources.resources
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\obj\Debug\SalesStaff Databound.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\obj\Debug\SalesStaff Databound.exe
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\obj\Debug\SalesStaff Databound.xml
+C:\Users\robtr\source\repos\SalesStaff Databound\SalesStaff Databound\obj\Debug\SalesStaff Databound.pdb

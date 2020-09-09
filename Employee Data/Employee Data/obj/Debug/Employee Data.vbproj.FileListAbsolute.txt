@@ -1,0 +1,11 @@
+C:\Users\robtr\source\repos\Employee Data\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\robtr\source\repos\Employee Data\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\robtr\source\repos\Employee Data\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\robtr\source\repos\Employee Data\Employee Data\bin\Debug\Employee Data.xml
+C:\Users\robtr\source\repos\Employee Data\Employee Data\obj\Debug\Employee Data.vbprojAssemblyReference.cache
+C:\Users\robtr\source\repos\Employee Data\Employee Data\obj\Debug\Employee_Data.Form1.resources
+C:\Users\robtr\source\repos\Employee Data\Employee Data\obj\Debug\Employee_Data.Resources.resources
+C:\Users\robtr\source\repos\Employee Data\Employee Data\obj\Debug\Employee Data.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\Employee Data\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\robtr\source\repos\Employee Data\Employee Data\obj\Debug\Employee Data.xml
+C:\Users\robtr\source\repos\Employee Data\Employee Data\obj\Debug\Employee Data.pdb

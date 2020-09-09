@@ -1,0 +1,17 @@
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\bin\Debug\Karate School Manager.exe.config
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\bin\Debug\Karate School Manager.exe
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\bin\Debug\Karate School Manager.pdb
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\bin\Debug\Karate School Manager.xml
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate School Manager.vbprojAssemblyReference.cache
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate_School_Manager.MainForm.resources
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate_School_Manager.Resources.resources
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate School Manager.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate School Manager.exe
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate School Manager.xml
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate School Manager.pdb
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\bin\Debug\Karate.mdf
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\bin\Debug\Karate_log.ldf
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate_School_Manager.AllMembersForm.resources
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate_School_Manager.AddMemberForm.resources
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate_School_Manager.FindMemberForm.resources
+C:\Users\robtr\source\repos\Karate School Manager\Karate School Manager\obj\Debug\Karate_School_Manager.AllPaymentsForm.resources

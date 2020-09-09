@@ -1,0 +1,11 @@
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.xml
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbprojAssemblyReference.cache
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Form1.resources
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Resources.resources
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.xml
+C:\Users\robtr\source\repos\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb

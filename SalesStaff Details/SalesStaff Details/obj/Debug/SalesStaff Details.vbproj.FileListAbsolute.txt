@@ -1,0 +1,12 @@
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\bin\Debug\Company.mdf
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\bin\Debug\Company_log.ldf
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\bin\Debug\SalesStaff Details.exe.config
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\bin\Debug\SalesStaff Details.exe
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\bin\Debug\SalesStaff Details.pdb
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\bin\Debug\SalesStaff Details.xml
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\obj\Debug\SalesStaff_Details.Form1.resources
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\obj\Debug\SalesStaff_Details.Resources.resources
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\obj\Debug\SalesStaff Details.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\obj\Debug\SalesStaff Details.exe
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\obj\Debug\SalesStaff Details.xml
+C:\Users\robtr\source\repos\SalesStaff Details\SalesStaff Details\obj\Debug\SalesStaff Details.pdb
