@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\bin\Debug\Menu Demo.exe.config
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\bin\Debug\Menu Demo.exe
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\bin\Debug\Menu Demo.pdb
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\bin\Debug\Menu Demo.xml
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\obj\Debug\Menu Demo.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\obj\Debug\Menu_Demo.Form1.resources
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\obj\Debug\Menu_Demo.Resources.resources
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\obj\Debug\Menu Demo.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\obj\Debug\Menu Demo.exe
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\obj\Debug\Menu Demo.xml
+E:\VisualBasic\Week 7\Menu Demo\Menu Demo\obj\Debug\Menu Demo.pdb

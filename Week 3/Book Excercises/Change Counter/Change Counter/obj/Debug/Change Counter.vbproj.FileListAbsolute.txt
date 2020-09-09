@@ -1,0 +1,11 @@
+C:\Users\robtr\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.exe.config
+C:\Users\robtr\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\robtr\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\robtr\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.xml
+C:\Users\robtr\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.vbprojAssemblyReference.cache
+C:\Users\robtr\source\repos\Change Counter\Change Counter\obj\Debug\Change_Counter.Form1.resources
+C:\Users\robtr\source\repos\Change Counter\Change Counter\obj\Debug\Change_Counter.Resources.resources
+C:\Users\robtr\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.exe
+C:\Users\robtr\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.xml
+C:\Users\robtr\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.pdb

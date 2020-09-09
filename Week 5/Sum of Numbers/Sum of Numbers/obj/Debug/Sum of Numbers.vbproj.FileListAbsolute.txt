@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.xml
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Form1.resources
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Resources.resources
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.xml
+E:\VisualBasic\Week 5\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb

@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\bin\Debug\LargestSmallest Values.exe.config
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\bin\Debug\LargestSmallest Values.exe
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\bin\Debug\LargestSmallest Values.pdb
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\bin\Debug\LargestSmallest Values.xml
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\obj\Debug\LargestSmallest Values.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\obj\Debug\LargestSmallest_Values.Form1.resources
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\obj\Debug\LargestSmallest_Values.Resources.resources
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\obj\Debug\LargestSmallest Values.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\obj\Debug\LargestSmallest Values.exe
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\obj\Debug\LargestSmallest Values.xml
+E:\VisualBasic\Week 8\LargestSmallest Values\LargestSmallest Values\obj\Debug\LargestSmallest Values.pdb

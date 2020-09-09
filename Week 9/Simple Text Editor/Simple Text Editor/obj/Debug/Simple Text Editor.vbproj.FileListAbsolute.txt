@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\bin\Debug\Simple Text Editor.xml
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple_Text_Editor.Form1.resources
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple_Text_Editor.Resources.resources
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.xml
+E:\VisualBasic\Week 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.pdb

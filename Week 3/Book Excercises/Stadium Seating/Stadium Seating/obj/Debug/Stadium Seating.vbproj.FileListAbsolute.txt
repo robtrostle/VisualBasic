@@ -1,0 +1,11 @@
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.xml
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.vbprojAssemblyReference.cache
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Form1.resources
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Resources.resources
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.vbproj.GenerateResource.cache
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.xml
+C:\Users\robtr\source\repos\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb

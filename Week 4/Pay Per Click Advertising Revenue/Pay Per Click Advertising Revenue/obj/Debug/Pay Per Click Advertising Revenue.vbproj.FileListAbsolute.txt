@@ -1,0 +1,11 @@
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\bin\Debug\Pay Per Click Advertising Revenue.exe.config
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\bin\Debug\Pay Per Click Advertising Revenue.exe
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\bin\Debug\Pay Per Click Advertising Revenue.pdb
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\bin\Debug\Pay Per Click Advertising Revenue.xml
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.vbprojAssemblyReference.cache
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay_Per_Click_Advertising_Revenue.Form1.resources
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay_Per_Click_Advertising_Revenue.Resources.resources
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.vbproj.GenerateResource.cache
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.exe
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.xml
+D:\VisualBasic\Week 4\Pay Per Click Advertising Revenue\Pay Per Click Advertising Revenue\obj\Debug\Pay Per Click Advertising Revenue.pdb

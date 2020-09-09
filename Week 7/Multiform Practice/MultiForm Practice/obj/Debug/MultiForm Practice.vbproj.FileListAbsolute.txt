@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\bin\Debug\MultiForm Practice.exe.config
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\bin\Debug\MultiForm Practice.exe
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\bin\Debug\MultiForm Practice.pdb
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\bin\Debug\MultiForm Practice.xml
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm_Practice.MainForm.resources
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm_Practice.MessageForm.resources
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm_Practice.Resources.resources
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm Practice.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm Practice.exe
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm Practice.xml
+E:\VisualBasic\Week 7\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm Practice.pdb

@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+E:\VisualBasic\Week 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

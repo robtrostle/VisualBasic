@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ReadEmployeeData", "ReadEmployeeData\ReadEmployeeData.vbproj", "{E6D1335C-A6E9-488D-A668-08EFDD85151D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D1335C-A6E9-488D-A668-08EFDD85151D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D1335C-A6E9-488D-A668-08EFDD85151D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D1335C-A6E9-488D-A668-08EFDD85151D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D1335C-A6E9-488D-A668-08EFDD85151D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D25B6B-656F-4CD3-9A06-4F2967C45E01}
+	EndGlobalSection
+EndGlobal

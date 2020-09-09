@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\bin\Debug\Hosptial Charges.exe.config
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\bin\Debug\Hosptial Charges.exe
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\bin\Debug\Hosptial Charges.pdb
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\bin\Debug\Hosptial Charges.xml
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\obj\Debug\Hosptial Charges.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\obj\Debug\Hosptial_Charges.Form1.resources
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\obj\Debug\Hosptial_Charges.Resources.resources
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\obj\Debug\Hosptial Charges.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\obj\Debug\Hosptial Charges.exe
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\obj\Debug\Hosptial Charges.xml
+E:\VisualBasic\Week 6\Hosptial Charges\Hosptial Charges\obj\Debug\Hosptial Charges.pdb

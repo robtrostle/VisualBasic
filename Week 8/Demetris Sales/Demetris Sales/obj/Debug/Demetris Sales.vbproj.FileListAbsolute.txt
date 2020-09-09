@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\bin\Debug\Demetris Sales.exe.config
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\bin\Debug\Demetris Sales.exe
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\bin\Debug\Demetris Sales.pdb
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\bin\Debug\Demetris Sales.xml
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\obj\Debug\Demetris_Sales.Resources.resources
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.exe
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.xml
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\obj\Debug\Demetris Sales.pdb
+E:\VisualBasic\Week 8\Demetris Sales\Demetris Sales\obj\Debug\Demetris_Sales.frmMain.resources

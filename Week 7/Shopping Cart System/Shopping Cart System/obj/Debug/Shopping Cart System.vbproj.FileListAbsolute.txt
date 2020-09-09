@@ -1,0 +1,13 @@
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.exe.config
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.exe
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.pdb
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.xml
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping_Cart_System.MainForm.resources
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping_Cart_System.Resources.resources
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.exe
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.xml
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping Cart System.pdb
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping_Cart_System.AudioBooks.resources
+E:\VisualBasic\Week 7\Shopping Cart System\Shopping Cart System\obj\Debug\Shopping_Cart_System.PrintBooks.resources

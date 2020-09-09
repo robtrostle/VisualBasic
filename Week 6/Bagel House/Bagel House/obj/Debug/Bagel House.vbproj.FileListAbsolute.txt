@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 6\Bagel House\Bagel House\obj\Debug\Bagel House.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 6\Bagel House\Bagel House\obj\Debug\Bagel_House.Form1.resources
+E:\VisualBasic\Week 6\Bagel House\Bagel House\obj\Debug\Bagel_House.Resources.resources
+E:\VisualBasic\Week 6\Bagel House\Bagel House\obj\Debug\Bagel House.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 6\Bagel House\Bagel House\bin\Debug\Bagel House.exe.config
+E:\VisualBasic\Week 6\Bagel House\Bagel House\bin\Debug\Bagel House.exe
+E:\VisualBasic\Week 6\Bagel House\Bagel House\bin\Debug\Bagel House.pdb
+E:\VisualBasic\Week 6\Bagel House\Bagel House\bin\Debug\Bagel House.xml
+E:\VisualBasic\Week 6\Bagel House\Bagel House\obj\Debug\Bagel House.exe
+E:\VisualBasic\Week 6\Bagel House\Bagel House\obj\Debug\Bagel House.xml
+E:\VisualBasic\Week 6\Bagel House\Bagel House\obj\Debug\Bagel House.pdb

@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\bin\Debug\ReadEmployeeData.exe.config
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\bin\Debug\ReadEmployeeData.exe
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\bin\Debug\ReadEmployeeData.pdb
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\bin\Debug\ReadEmployeeData.xml
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.Form1.resources
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.Resources.resources
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.exe
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.xml
+E:\VisualBasic\Week 9\ReadEmployeeData\ReadEmployeeData\obj\Debug\ReadEmployeeData.pdb

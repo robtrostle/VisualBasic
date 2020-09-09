@@ -1,0 +1,12 @@
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.exe.config
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.exe
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.pdb
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.xml
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\obj\Debug\Conference_Registration_System.ConferenceOptionsForm.resources
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\obj\Debug\Conference_Registration_System.MainForm.resources
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\obj\Debug\Conference_Registration_System.Resources.resources
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.exe
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.xml
+E:\VisualBasic\Week 7\Conference Registration System\Conference Registration System\obj\Debug\Conference Registration System.pdb

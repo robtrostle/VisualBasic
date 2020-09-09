@@ -1,0 +1,12 @@
+E:\VisualBasic\Week 7\Food Facts\Food Facts\bin\Debug\Food Facts.exe.config
+E:\VisualBasic\Week 7\Food Facts\Food Facts\bin\Debug\Food Facts.exe
+E:\VisualBasic\Week 7\Food Facts\Food Facts\bin\Debug\Food Facts.pdb
+E:\VisualBasic\Week 7\Food Facts\Food Facts\bin\Debug\Food Facts.xml
+E:\VisualBasic\Week 7\Food Facts\Food Facts\obj\Debug\Food Facts.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 7\Food Facts\Food Facts\obj\Debug\Food_Facts.MainForm.resources
+E:\VisualBasic\Week 7\Food Facts\Food Facts\obj\Debug\Food_Facts.Resources.resources
+E:\VisualBasic\Week 7\Food Facts\Food Facts\obj\Debug\Food_Facts.NutritionForm.resources
+E:\VisualBasic\Week 7\Food Facts\Food Facts\obj\Debug\Food Facts.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 7\Food Facts\Food Facts\obj\Debug\Food Facts.exe
+E:\VisualBasic\Week 7\Food Facts\Food Facts\obj\Debug\Food Facts.xml
+E:\VisualBasic\Week 7\Food Facts\Food Facts\obj\Debug\Food Facts.pdb

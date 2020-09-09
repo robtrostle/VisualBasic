@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\bin\Debug\MuseumTours.exe.config
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\bin\Debug\MuseumTours.exe
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\bin\Debug\MuseumTours.pdb
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\bin\Debug\MuseumTours.xml
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\obj\Debug\MuseumTours.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\obj\Debug\MuseumTours.Form1.resources
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\obj\Debug\MuseumTours.Resources.resources
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\obj\Debug\MuseumTours.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\obj\Debug\MuseumTours.exe
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\obj\Debug\MuseumTours.xml
+E:\VisualBasic\Week 4\MuseumTours\MuseumTours\obj\Debug\MuseumTours.pdb

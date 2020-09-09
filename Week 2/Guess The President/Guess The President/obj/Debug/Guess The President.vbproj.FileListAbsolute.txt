@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 2\Guess The President\Guess The President\bin\Debug\Guess The President.exe.config
+E:\VisualBasic\Week 2\Guess The President\Guess The President\bin\Debug\Guess The President.exe
+E:\VisualBasic\Week 2\Guess The President\Guess The President\bin\Debug\Guess The President.pdb
+E:\VisualBasic\Week 2\Guess The President\Guess The President\bin\Debug\Guess The President.xml
+E:\VisualBasic\Week 2\Guess The President\Guess The President\obj\Debug\Guess The President.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 2\Guess The President\Guess The President\obj\Debug\Guess_The_President.Form1.resources
+E:\VisualBasic\Week 2\Guess The President\Guess The President\obj\Debug\Guess_The_President.Resources.resources
+E:\VisualBasic\Week 2\Guess The President\Guess The President\obj\Debug\Guess The President.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 2\Guess The President\Guess The President\obj\Debug\Guess The President.exe
+E:\VisualBasic\Week 2\Guess The President\Guess The President\obj\Debug\Guess The President.xml
+E:\VisualBasic\Week 2\Guess The President\Guess The President\obj\Debug\Guess The President.pdb

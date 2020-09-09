@@ -1,0 +1,10 @@
+E:\VisualBasic\Week 2\Flags\Flags\bin\Debug\Flags.exe.config
+E:\VisualBasic\Week 2\Flags\Flags\bin\Debug\Flags.exe
+E:\VisualBasic\Week 2\Flags\Flags\bin\Debug\Flags.pdb
+E:\VisualBasic\Week 2\Flags\Flags\bin\Debug\Flags.xml
+E:\VisualBasic\Week 2\Flags\Flags\obj\Debug\Flags.Form1.resources
+E:\VisualBasic\Week 2\Flags\Flags\obj\Debug\Flags.Resources.resources
+E:\VisualBasic\Week 2\Flags\Flags\obj\Debug\Flags.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 2\Flags\Flags\obj\Debug\Flags.exe
+E:\VisualBasic\Week 2\Flags\Flags\obj\Debug\Flags.xml
+E:\VisualBasic\Week 2\Flags\Flags\obj\Debug\Flags.pdb

@@ -1,0 +1,15 @@
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\bin\Debug\Skateboard Designer.exe.config
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\bin\Debug\Skateboard Designer.exe
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\bin\Debug\Skateboard Designer.pdb
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\bin\Debug\Skateboard Designer.xml
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard Designer.vbprojAssemblyReference.cache
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard_Designer.Decks.resources
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard_Designer.MainForm.resources
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard_Designer.Miscellaneous.resources
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard_Designer.Resources.resources
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard_Designer.Trucks.resources
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard_Designer.Wheels.resources
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard Designer.vbproj.GenerateResource.cache
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard Designer.exe
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard Designer.xml
+E:\VisualBasic\MidTerm\Skateboard Designer\Skateboard Designer\obj\Debug\Skateboard Designer.pdb

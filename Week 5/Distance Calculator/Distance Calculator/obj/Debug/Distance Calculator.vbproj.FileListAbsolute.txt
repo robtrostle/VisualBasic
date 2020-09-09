@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.pdb
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.xml
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Form1.resources
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Resources.resources
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.exe
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.xml
+E:\VisualBasic\Week 5\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.pdb

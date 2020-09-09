@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\bin\Debug\Friend List 2.exe.config
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\bin\Debug\Friend List 2.exe
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\bin\Debug\Friend List 2.pdb
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\bin\Debug\Friend List 2.xml
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\obj\Debug\Friend List 2.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\obj\Debug\Friend_List_2.Form1.resources
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\obj\Debug\Friend_List_2.Resources.resources
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\obj\Debug\Friend List 2.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\obj\Debug\Friend List 2.exe
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\obj\Debug\Friend List 2.xml
+E:\VisualBasic\Week 8\Friend List 2\Friend List 2\obj\Debug\Friend List 2.pdb

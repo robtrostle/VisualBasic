@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room_Charge_Calculator.Form1.resources
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room_Charge_Calculator.Resources.resources
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.exe.config
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.exe
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.pdb
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.xml
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.exe
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.xml
+E:\VisualBasic\Week 3\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.pdb

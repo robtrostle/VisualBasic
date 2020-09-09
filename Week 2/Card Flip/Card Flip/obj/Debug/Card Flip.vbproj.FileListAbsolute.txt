@@ -1,0 +1,10 @@
+E:\VisualBasic\Week 2\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+E:\VisualBasic\Week 2\Card Flip\Card Flip\bin\Debug\Card Flip.exe
+E:\VisualBasic\Week 2\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
+E:\VisualBasic\Week 2\Card Flip\Card Flip\bin\Debug\Card Flip.xml
+E:\VisualBasic\Week 2\Card Flip\Card Flip\obj\Debug\Card_Flip.Form1.resources
+E:\VisualBasic\Week 2\Card Flip\Card Flip\obj\Debug\Card_Flip.Resources.resources
+E:\VisualBasic\Week 2\Card Flip\Card Flip\obj\Debug\Card Flip.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 2\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+E:\VisualBasic\Week 2\Card Flip\Card Flip\obj\Debug\Card Flip.xml
+E:\VisualBasic\Week 2\Card Flip\Card Flip\obj\Debug\Card Flip.pdb

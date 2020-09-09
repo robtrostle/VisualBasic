@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 8\Months and Days\Months and Days\bin\Debug\Months and Days.exe.config
+E:\VisualBasic\Week 8\Months and Days\Months and Days\bin\Debug\Months and Days.exe
+E:\VisualBasic\Week 8\Months and Days\Months and Days\bin\Debug\Months and Days.pdb
+E:\VisualBasic\Week 8\Months and Days\Months and Days\bin\Debug\Months and Days.xml
+E:\VisualBasic\Week 8\Months and Days\Months and Days\obj\Debug\Months and Days.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 8\Months and Days\Months and Days\obj\Debug\Months_and_Days.Form1.resources
+E:\VisualBasic\Week 8\Months and Days\Months and Days\obj\Debug\Months_and_Days.Resources.resources
+E:\VisualBasic\Week 8\Months and Days\Months and Days\obj\Debug\Months and Days.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 8\Months and Days\Months and Days\obj\Debug\Months and Days.exe
+E:\VisualBasic\Week 8\Months and Days\Months and Days\obj\Debug\Months and Days.xml
+E:\VisualBasic\Week 8\Months and Days\Months and Days\obj\Debug\Months and Days.pdb

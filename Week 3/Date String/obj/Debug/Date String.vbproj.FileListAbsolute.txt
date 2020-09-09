@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 3\Date String\bin\Debug\Date String.exe.config
+E:\VisualBasic\Week 3\Date String\bin\Debug\Date String.exe
+E:\VisualBasic\Week 3\Date String\bin\Debug\Date String.pdb
+E:\VisualBasic\Week 3\Date String\bin\Debug\Date String.xml
+E:\VisualBasic\Week 3\Date String\obj\Debug\Date String.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 3\Date String\obj\Debug\Date_String.Form1.resources
+E:\VisualBasic\Week 3\Date String\obj\Debug\Date_String.Resources.resources
+E:\VisualBasic\Week 3\Date String\obj\Debug\Date String.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 3\Date String\obj\Debug\Date String.exe
+E:\VisualBasic\Week 3\Date String\obj\Debug\Date String.xml
+E:\VisualBasic\Week 3\Date String\obj\Debug\Date String.pdb

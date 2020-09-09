@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe.config
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.xml
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery_Numbers.Form1.resources
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery_Numbers.Resources.resources
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.exe
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.xml
+E:\VisualBasic\Week 8\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.pdb

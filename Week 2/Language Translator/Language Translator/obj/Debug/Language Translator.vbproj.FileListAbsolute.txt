@@ -1,0 +1,11 @@
+E:\VisualBasic\Week 2\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+E:\VisualBasic\Week 2\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+E:\VisualBasic\Week 2\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+E:\VisualBasic\Week 2\Language Translator\Language Translator\bin\Debug\Language Translator.xml
+E:\VisualBasic\Week 2\Language Translator\Language Translator\obj\Debug\Language Translator.vbprojAssemblyReference.cache
+E:\VisualBasic\Week 2\Language Translator\Language Translator\obj\Debug\Language_Translator.Form1.resources
+E:\VisualBasic\Week 2\Language Translator\Language Translator\obj\Debug\Language_Translator.Resources.resources
+E:\VisualBasic\Week 2\Language Translator\Language Translator\obj\Debug\Language Translator.vbproj.GenerateResource.cache
+E:\VisualBasic\Week 2\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+E:\VisualBasic\Week 2\Language Translator\Language Translator\obj\Debug\Language Translator.xml
+E:\VisualBasic\Week 2\Language Translator\Language Translator\obj\Debug\Language Translator.pdb

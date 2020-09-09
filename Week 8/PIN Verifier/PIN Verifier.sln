@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PIN Verifier", "PIN Verifier\PIN Verifier.vbproj", "{55693E63-42EB-4220-A146-B8C3EF99BFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55693E63-42EB-4220-A146-B8C3EF99BFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55693E63-42EB-4220-A146-B8C3EF99BFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55693E63-42EB-4220-A146-B8C3EF99BFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55693E63-42EB-4220-A146-B8C3EF99BFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F5E36AC-7736-477E-B263-37955CAD0AEC}
+	EndGlobalSection
+EndGlobal
